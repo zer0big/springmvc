@@ -1,1 +1,1 @@
-# springmvc test using github commit
+# springmvc docker test using github commit
